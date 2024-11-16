@@ -1,0 +1,501 @@
+Student ID,Name,Age,Grade Level,Program Interest,Enrollment Likelihood,Needs Support,Support Type,Student_ID
+101,Alice Johnson - Set 1,17,12th Grade,Engineering,High,True,Tutoring,101
+102,Bob Smith - Set 1,16,11th Grade,Arts,Medium,False,,102
+103,Charlie Brown - Set 1,18,12th Grade,Medicine,High,True,Counseling,103
+104,Daisy Lee - Set 1,17,11th Grade,Engineering,Low,True,Financial Aid,104
+105,Evan Wright - Set 1,19,College Freshman,Business,Medium,False,,105
+106,Fiona Green - Set 1,18,12th Grade,Science,High,False,,106
+107,George King - Set 1,17,11th Grade,Arts,Low,True,Tutoring,107
+108,Hannah Taylor - Set 1,16,12th Grade,Medicine,High,False,,108
+109,Ian Moore - Set 1,20,College Sophomore,Law,Medium,True,Counseling,109
+110,Jenny Clark - Set 1,19,College Freshman,Engineering,High,True,Financial Aid,110
+101,Alice Johnson - Set 2,17,12th Grade,Engineering,High,True,Tutoring,201
+102,Bob Smith - Set 2,16,11th Grade,Arts,Medium,False,,202
+103,Charlie Brown - Set 2,18,12th Grade,Medicine,High,True,Counseling,203
+104,Daisy Lee - Set 2,17,11th Grade,Engineering,Low,True,Financial Aid,204
+105,Evan Wright - Set 2,19,College Freshman,Business,Medium,False,,205
+106,Fiona Green - Set 2,18,12th Grade,Science,High,False,,206
+107,George King - Set 2,17,11th Grade,Arts,Low,True,Tutoring,207
+108,Hannah Taylor - Set 2,16,12th Grade,Medicine,High,False,,208
+109,Ian Moore - Set 2,20,College Sophomore,Law,Medium,True,Counseling,209
+110,Jenny Clark - Set 2,19,College Freshman,Engineering,High,True,Financial Aid,210
+101,Alice Johnson - Set 3,17,12th Grade,Engineering,High,True,Tutoring,301
+102,Bob Smith - Set 3,16,11th Grade,Arts,Medium,False,,302
+103,Charlie Brown - Set 3,18,12th Grade,Medicine,High,True,Counseling,303
+104,Daisy Lee - Set 3,17,11th Grade,Engineering,Low,True,Financial Aid,304
+105,Evan Wright - Set 3,19,College Freshman,Business,Medium,False,,305
+106,Fiona Green - Set 3,18,12th Grade,Science,High,False,,306
+107,George King - Set 3,17,11th Grade,Arts,Low,True,Tutoring,307
+108,Hannah Taylor - Set 3,16,12th Grade,Medicine,High,False,,308
+109,Ian Moore - Set 3,20,College Sophomore,Law,Medium,True,Counseling,309
+110,Jenny Clark - Set 3,19,College Freshman,Engineering,High,True,Financial Aid,310
+101,Alice Johnson - Set 4,17,12th Grade,Engineering,High,True,Tutoring,401
+102,Bob Smith - Set 4,16,11th Grade,Arts,Medium,False,,402
+103,Charlie Brown - Set 4,18,12th Grade,Medicine,High,True,Counseling,403
+104,Daisy Lee - Set 4,17,11th Grade,Engineering,Low,True,Financial Aid,404
+105,Evan Wright - Set 4,19,College Freshman,Business,Medium,False,,405
+106,Fiona Green - Set 4,18,12th Grade,Science,High,False,,406
+107,George King - Set 4,17,11th Grade,Arts,Low,True,Tutoring,407
+108,Hannah Taylor - Set 4,16,12th Grade,Medicine,High,False,,408
+109,Ian Moore - Set 4,20,College Sophomore,Law,Medium,True,Counseling,409
+110,Jenny Clark - Set 4,19,College Freshman,Engineering,High,True,Financial Aid,410
+101,Alice Johnson - Set 5,17,12th Grade,Engineering,High,True,Tutoring,501
+102,Bob Smith - Set 5,16,11th Grade,Arts,Medium,False,,502
+103,Charlie Brown - Set 5,18,12th Grade,Medicine,High,True,Counseling,503
+104,Daisy Lee - Set 5,17,11th Grade,Engineering,Low,True,Financial Aid,504
+105,Evan Wright - Set 5,19,College Freshman,Business,Medium,False,,505
+106,Fiona Green - Set 5,18,12th Grade,Science,High,False,,506
+107,George King - Set 5,17,11th Grade,Arts,Low,True,Tutoring,507
+108,Hannah Taylor - Set 5,16,12th Grade,Medicine,High,False,,508
+109,Ian Moore - Set 5,20,College Sophomore,Law,Medium,True,Counseling,509
+110,Jenny Clark - Set 5,19,College Freshman,Engineering,High,True,Financial Aid,510
+101,Alice Johnson - Set 6,17,12th Grade,Engineering,High,True,Tutoring,601
+102,Bob Smith - Set 6,16,11th Grade,Arts,Medium,False,,602
+103,Charlie Brown - Set 6,18,12th Grade,Medicine,High,True,Counseling,603
+104,Daisy Lee - Set 6,17,11th Grade,Engineering,Low,True,Financial Aid,604
+105,Evan Wright - Set 6,19,College Freshman,Business,Medium,False,,605
+106,Fiona Green - Set 6,18,12th Grade,Science,High,False,,606
+107,George King - Set 6,17,11th Grade,Arts,Low,True,Tutoring,607
+108,Hannah Taylor - Set 6,16,12th Grade,Medicine,High,False,,608
+109,Ian Moore - Set 6,20,College Sophomore,Law,Medium,True,Counseling,609
+110,Jenny Clark - Set 6,19,College Freshman,Engineering,High,True,Financial Aid,610
+101,Alice Johnson - Set 7,17,12th Grade,Engineering,High,True,Tutoring,701
+102,Bob Smith - Set 7,16,11th Grade,Arts,Medium,False,,702
+103,Charlie Brown - Set 7,18,12th Grade,Medicine,High,True,Counseling,703
+104,Daisy Lee - Set 7,17,11th Grade,Engineering,Low,True,Financial Aid,704
+105,Evan Wright - Set 7,19,College Freshman,Business,Medium,False,,705
+106,Fiona Green - Set 7,18,12th Grade,Science,High,False,,706
+107,George King - Set 7,17,11th Grade,Arts,Low,True,Tutoring,707
+108,Hannah Taylor - Set 7,16,12th Grade,Medicine,High,False,,708
+109,Ian Moore - Set 7,20,College Sophomore,Law,Medium,True,Counseling,709
+110,Jenny Clark - Set 7,19,College Freshman,Engineering,High,True,Financial Aid,710
+101,Alice Johnson - Set 8,17,12th Grade,Engineering,High,True,Tutoring,801
+102,Bob Smith - Set 8,16,11th Grade,Arts,Medium,False,,802
+103,Charlie Brown - Set 8,18,12th Grade,Medicine,High,True,Counseling,803
+104,Daisy Lee - Set 8,17,11th Grade,Engineering,Low,True,Financial Aid,804
+105,Evan Wright - Set 8,19,College Freshman,Business,Medium,False,,805
+106,Fiona Green - Set 8,18,12th Grade,Science,High,False,,806
+107,George King - Set 8,17,11th Grade,Arts,Low,True,Tutoring,807
+108,Hannah Taylor - Set 8,16,12th Grade,Medicine,High,False,,808
+109,Ian Moore - Set 8,20,College Sophomore,Law,Medium,True,Counseling,809
+110,Jenny Clark - Set 8,19,College Freshman,Engineering,High,True,Financial Aid,810
+101,Alice Johnson - Set 9,17,12th Grade,Engineering,High,True,Tutoring,901
+102,Bob Smith - Set 9,16,11th Grade,Arts,Medium,False,,902
+103,Charlie Brown - Set 9,18,12th Grade,Medicine,High,True,Counseling,903
+104,Daisy Lee - Set 9,17,11th Grade,Engineering,Low,True,Financial Aid,904
+105,Evan Wright - Set 9,19,College Freshman,Business,Medium,False,,905
+106,Fiona Green - Set 9,18,12th Grade,Science,High,False,,906
+107,George King - Set 9,17,11th Grade,Arts,Low,True,Tutoring,907
+108,Hannah Taylor - Set 9,16,12th Grade,Medicine,High,False,,908
+109,Ian Moore - Set 9,20,College Sophomore,Law,Medium,True,Counseling,909
+110,Jenny Clark - Set 9,19,College Freshman,Engineering,High,True,Financial Aid,910
+101,Alice Johnson - Set 10,17,12th Grade,Engineering,High,True,Tutoring,1001
+102,Bob Smith - Set 10,16,11th Grade,Arts,Medium,False,,1002
+103,Charlie Brown - Set 10,18,12th Grade,Medicine,High,True,Counseling,1003
+104,Daisy Lee - Set 10,17,11th Grade,Engineering,Low,True,Financial Aid,1004
+105,Evan Wright - Set 10,19,College Freshman,Business,Medium,False,,1005
+106,Fiona Green - Set 10,18,12th Grade,Science,High,False,,1006
+107,George King - Set 10,17,11th Grade,Arts,Low,True,Tutoring,1007
+108,Hannah Taylor - Set 10,16,12th Grade,Medicine,High,False,,1008
+109,Ian Moore - Set 10,20,College Sophomore,Law,Medium,True,Counseling,1009
+110,Jenny Clark - Set 10,19,College Freshman,Engineering,High,True,Financial Aid,1010
+101,Alice Johnson - Set 11,17,12th Grade,Engineering,High,True,Tutoring,1101
+102,Bob Smith - Set 11,16,11th Grade,Arts,Medium,False,,1102
+103,Charlie Brown - Set 11,18,12th Grade,Medicine,High,True,Counseling,1103
+104,Daisy Lee - Set 11,17,11th Grade,Engineering,Low,True,Financial Aid,1104
+105,Evan Wright - Set 11,19,College Freshman,Business,Medium,False,,1105
+106,Fiona Green - Set 11,18,12th Grade,Science,High,False,,1106
+107,George King - Set 11,17,11th Grade,Arts,Low,True,Tutoring,1107
+108,Hannah Taylor - Set 11,16,12th Grade,Medicine,High,False,,1108
+109,Ian Moore - Set 11,20,College Sophomore,Law,Medium,True,Counseling,1109
+110,Jenny Clark - Set 11,19,College Freshman,Engineering,High,True,Financial Aid,1110
+101,Alice Johnson - Set 12,17,12th Grade,Engineering,High,True,Tutoring,1201
+102,Bob Smith - Set 12,16,11th Grade,Arts,Medium,False,,1202
+103,Charlie Brown - Set 12,18,12th Grade,Medicine,High,True,Counseling,1203
+104,Daisy Lee - Set 12,17,11th Grade,Engineering,Low,True,Financial Aid,1204
+105,Evan Wright - Set 12,19,College Freshman,Business,Medium,False,,1205
+106,Fiona Green - Set 12,18,12th Grade,Science,High,False,,1206
+107,George King - Set 12,17,11th Grade,Arts,Low,True,Tutoring,1207
+108,Hannah Taylor - Set 12,16,12th Grade,Medicine,High,False,,1208
+109,Ian Moore - Set 12,20,College Sophomore,Law,Medium,True,Counseling,1209
+110,Jenny Clark - Set 12,19,College Freshman,Engineering,High,True,Financial Aid,1210
+101,Alice Johnson - Set 13,17,12th Grade,Engineering,High,True,Tutoring,1301
+102,Bob Smith - Set 13,16,11th Grade,Arts,Medium,False,,1302
+103,Charlie Brown - Set 13,18,12th Grade,Medicine,High,True,Counseling,1303
+104,Daisy Lee - Set 13,17,11th Grade,Engineering,Low,True,Financial Aid,1304
+105,Evan Wright - Set 13,19,College Freshman,Business,Medium,False,,1305
+106,Fiona Green - Set 13,18,12th Grade,Science,High,False,,1306
+107,George King - Set 13,17,11th Grade,Arts,Low,True,Tutoring,1307
+108,Hannah Taylor - Set 13,16,12th Grade,Medicine,High,False,,1308
+109,Ian Moore - Set 13,20,College Sophomore,Law,Medium,True,Counseling,1309
+110,Jenny Clark - Set 13,19,College Freshman,Engineering,High,True,Financial Aid,1310
+101,Alice Johnson - Set 14,17,12th Grade,Engineering,High,True,Tutoring,1401
+102,Bob Smith - Set 14,16,11th Grade,Arts,Medium,False,,1402
+103,Charlie Brown - Set 14,18,12th Grade,Medicine,High,True,Counseling,1403
+104,Daisy Lee - Set 14,17,11th Grade,Engineering,Low,True,Financial Aid,1404
+105,Evan Wright - Set 14,19,College Freshman,Business,Medium,False,,1405
+106,Fiona Green - Set 14,18,12th Grade,Science,High,False,,1406
+107,George King - Set 14,17,11th Grade,Arts,Low,True,Tutoring,1407
+108,Hannah Taylor - Set 14,16,12th Grade,Medicine,High,False,,1408
+109,Ian Moore - Set 14,20,College Sophomore,Law,Medium,True,Counseling,1409
+110,Jenny Clark - Set 14,19,College Freshman,Engineering,High,True,Financial Aid,1410
+101,Alice Johnson - Set 15,17,12th Grade,Engineering,High,True,Tutoring,1501
+102,Bob Smith - Set 15,16,11th Grade,Arts,Medium,False,,1502
+103,Charlie Brown - Set 15,18,12th Grade,Medicine,High,True,Counseling,1503
+104,Daisy Lee - Set 15,17,11th Grade,Engineering,Low,True,Financial Aid,1504
+105,Evan Wright - Set 15,19,College Freshman,Business,Medium,False,,1505
+106,Fiona Green - Set 15,18,12th Grade,Science,High,False,,1506
+107,George King - Set 15,17,11th Grade,Arts,Low,True,Tutoring,1507
+108,Hannah Taylor - Set 15,16,12th Grade,Medicine,High,False,,1508
+109,Ian Moore - Set 15,20,College Sophomore,Law,Medium,True,Counseling,1509
+110,Jenny Clark - Set 15,19,College Freshman,Engineering,High,True,Financial Aid,1510
+101,Alice Johnson - Set 16,17,12th Grade,Engineering,High,True,Tutoring,1601
+102,Bob Smith - Set 16,16,11th Grade,Arts,Medium,False,,1602
+103,Charlie Brown - Set 16,18,12th Grade,Medicine,High,True,Counseling,1603
+104,Daisy Lee - Set 16,17,11th Grade,Engineering,Low,True,Financial Aid,1604
+105,Evan Wright - Set 16,19,College Freshman,Business,Medium,False,,1605
+106,Fiona Green - Set 16,18,12th Grade,Science,High,False,,1606
+107,George King - Set 16,17,11th Grade,Arts,Low,True,Tutoring,1607
+108,Hannah Taylor - Set 16,16,12th Grade,Medicine,High,False,,1608
+109,Ian Moore - Set 16,20,College Sophomore,Law,Medium,True,Counseling,1609
+110,Jenny Clark - Set 16,19,College Freshman,Engineering,High,True,Financial Aid,1610
+101,Alice Johnson - Set 17,17,12th Grade,Engineering,High,True,Tutoring,1701
+102,Bob Smith - Set 17,16,11th Grade,Arts,Medium,False,,1702
+103,Charlie Brown - Set 17,18,12th Grade,Medicine,High,True,Counseling,1703
+104,Daisy Lee - Set 17,17,11th Grade,Engineering,Low,True,Financial Aid,1704
+105,Evan Wright - Set 17,19,College Freshman,Business,Medium,False,,1705
+106,Fiona Green - Set 17,18,12th Grade,Science,High,False,,1706
+107,George King - Set 17,17,11th Grade,Arts,Low,True,Tutoring,1707
+108,Hannah Taylor - Set 17,16,12th Grade,Medicine,High,False,,1708
+109,Ian Moore - Set 17,20,College Sophomore,Law,Medium,True,Counseling,1709
+110,Jenny Clark - Set 17,19,College Freshman,Engineering,High,True,Financial Aid,1710
+101,Alice Johnson - Set 18,17,12th Grade,Engineering,High,True,Tutoring,1801
+102,Bob Smith - Set 18,16,11th Grade,Arts,Medium,False,,1802
+103,Charlie Brown - Set 18,18,12th Grade,Medicine,High,True,Counseling,1803
+104,Daisy Lee - Set 18,17,11th Grade,Engineering,Low,True,Financial Aid,1804
+105,Evan Wright - Set 18,19,College Freshman,Business,Medium,False,,1805
+106,Fiona Green - Set 18,18,12th Grade,Science,High,False,,1806
+107,George King - Set 18,17,11th Grade,Arts,Low,True,Tutoring,1807
+108,Hannah Taylor - Set 18,16,12th Grade,Medicine,High,False,,1808
+109,Ian Moore - Set 18,20,College Sophomore,Law,Medium,True,Counseling,1809
+110,Jenny Clark - Set 18,19,College Freshman,Engineering,High,True,Financial Aid,1810
+101,Alice Johnson - Set 19,17,12th Grade,Engineering,High,True,Tutoring,1901
+102,Bob Smith - Set 19,16,11th Grade,Arts,Medium,False,,1902
+103,Charlie Brown - Set 19,18,12th Grade,Medicine,High,True,Counseling,1903
+104,Daisy Lee - Set 19,17,11th Grade,Engineering,Low,True,Financial Aid,1904
+105,Evan Wright - Set 19,19,College Freshman,Business,Medium,False,,1905
+106,Fiona Green - Set 19,18,12th Grade,Science,High,False,,1906
+107,George King - Set 19,17,11th Grade,Arts,Low,True,Tutoring,1907
+108,Hannah Taylor - Set 19,16,12th Grade,Medicine,High,False,,1908
+109,Ian Moore - Set 19,20,College Sophomore,Law,Medium,True,Counseling,1909
+110,Jenny Clark - Set 19,19,College Freshman,Engineering,High,True,Financial Aid,1910
+101,Alice Johnson - Set 20,17,12th Grade,Engineering,High,True,Tutoring,2001
+102,Bob Smith - Set 20,16,11th Grade,Arts,Medium,False,,2002
+103,Charlie Brown - Set 20,18,12th Grade,Medicine,High,True,Counseling,2003
+104,Daisy Lee - Set 20,17,11th Grade,Engineering,Low,True,Financial Aid,2004
+105,Evan Wright - Set 20,19,College Freshman,Business,Medium,False,,2005
+106,Fiona Green - Set 20,18,12th Grade,Science,High,False,,2006
+107,George King - Set 20,17,11th Grade,Arts,Low,True,Tutoring,2007
+108,Hannah Taylor - Set 20,16,12th Grade,Medicine,High,False,,2008
+109,Ian Moore - Set 20,20,College Sophomore,Law,Medium,True,Counseling,2009
+110,Jenny Clark - Set 20,19,College Freshman,Engineering,High,True,Financial Aid,2010
+101,Alice Johnson - Set 21,17,12th Grade,Engineering,High,True,Tutoring,2101
+102,Bob Smith - Set 21,16,11th Grade,Arts,Medium,False,,2102
+103,Charlie Brown - Set 21,18,12th Grade,Medicine,High,True,Counseling,2103
+104,Daisy Lee - Set 21,17,11th Grade,Engineering,Low,True,Financial Aid,2104
+105,Evan Wright - Set 21,19,College Freshman,Business,Medium,False,,2105
+106,Fiona Green - Set 21,18,12th Grade,Science,High,False,,2106
+107,George King - Set 21,17,11th Grade,Arts,Low,True,Tutoring,2107
+108,Hannah Taylor - Set 21,16,12th Grade,Medicine,High,False,,2108
+109,Ian Moore - Set 21,20,College Sophomore,Law,Medium,True,Counseling,2109
+110,Jenny Clark - Set 21,19,College Freshman,Engineering,High,True,Financial Aid,2110
+101,Alice Johnson - Set 22,17,12th Grade,Engineering,High,True,Tutoring,2201
+102,Bob Smith - Set 22,16,11th Grade,Arts,Medium,False,,2202
+103,Charlie Brown - Set 22,18,12th Grade,Medicine,High,True,Counseling,2203
+104,Daisy Lee - Set 22,17,11th Grade,Engineering,Low,True,Financial Aid,2204
+105,Evan Wright - Set 22,19,College Freshman,Business,Medium,False,,2205
+106,Fiona Green - Set 22,18,12th Grade,Science,High,False,,2206
+107,George King - Set 22,17,11th Grade,Arts,Low,True,Tutoring,2207
+108,Hannah Taylor - Set 22,16,12th Grade,Medicine,High,False,,2208
+109,Ian Moore - Set 22,20,College Sophomore,Law,Medium,True,Counseling,2209
+110,Jenny Clark - Set 22,19,College Freshman,Engineering,High,True,Financial Aid,2210
+101,Alice Johnson - Set 23,17,12th Grade,Engineering,High,True,Tutoring,2301
+102,Bob Smith - Set 23,16,11th Grade,Arts,Medium,False,,2302
+103,Charlie Brown - Set 23,18,12th Grade,Medicine,High,True,Counseling,2303
+104,Daisy Lee - Set 23,17,11th Grade,Engineering,Low,True,Financial Aid,2304
+105,Evan Wright - Set 23,19,College Freshman,Business,Medium,False,,2305
+106,Fiona Green - Set 23,18,12th Grade,Science,High,False,,2306
+107,George King - Set 23,17,11th Grade,Arts,Low,True,Tutoring,2307
+108,Hannah Taylor - Set 23,16,12th Grade,Medicine,High,False,,2308
+109,Ian Moore - Set 23,20,College Sophomore,Law,Medium,True,Counseling,2309
+110,Jenny Clark - Set 23,19,College Freshman,Engineering,High,True,Financial Aid,2310
+101,Alice Johnson - Set 24,17,12th Grade,Engineering,High,True,Tutoring,2401
+102,Bob Smith - Set 24,16,11th Grade,Arts,Medium,False,,2402
+103,Charlie Brown - Set 24,18,12th Grade,Medicine,High,True,Counseling,2403
+104,Daisy Lee - Set 24,17,11th Grade,Engineering,Low,True,Financial Aid,2404
+105,Evan Wright - Set 24,19,College Freshman,Business,Medium,False,,2405
+106,Fiona Green - Set 24,18,12th Grade,Science,High,False,,2406
+107,George King - Set 24,17,11th Grade,Arts,Low,True,Tutoring,2407
+108,Hannah Taylor - Set 24,16,12th Grade,Medicine,High,False,,2408
+109,Ian Moore - Set 24,20,College Sophomore,Law,Medium,True,Counseling,2409
+110,Jenny Clark - Set 24,19,College Freshman,Engineering,High,True,Financial Aid,2410
+101,Alice Johnson - Set 25,17,12th Grade,Engineering,High,True,Tutoring,2501
+102,Bob Smith - Set 25,16,11th Grade,Arts,Medium,False,,2502
+103,Charlie Brown - Set 25,18,12th Grade,Medicine,High,True,Counseling,2503
+104,Daisy Lee - Set 25,17,11th Grade,Engineering,Low,True,Financial Aid,2504
+105,Evan Wright - Set 25,19,College Freshman,Business,Medium,False,,2505
+106,Fiona Green - Set 25,18,12th Grade,Science,High,False,,2506
+107,George King - Set 25,17,11th Grade,Arts,Low,True,Tutoring,2507
+108,Hannah Taylor - Set 25,16,12th Grade,Medicine,High,False,,2508
+109,Ian Moore - Set 25,20,College Sophomore,Law,Medium,True,Counseling,2509
+110,Jenny Clark - Set 25,19,College Freshman,Engineering,High,True,Financial Aid,2510
+101,Alice Johnson - Set 26,17,12th Grade,Engineering,High,True,Tutoring,2601
+102,Bob Smith - Set 26,16,11th Grade,Arts,Medium,False,,2602
+103,Charlie Brown - Set 26,18,12th Grade,Medicine,High,True,Counseling,2603
+104,Daisy Lee - Set 26,17,11th Grade,Engineering,Low,True,Financial Aid,2604
+105,Evan Wright - Set 26,19,College Freshman,Business,Medium,False,,2605
+106,Fiona Green - Set 26,18,12th Grade,Science,High,False,,2606
+107,George King - Set 26,17,11th Grade,Arts,Low,True,Tutoring,2607
+108,Hannah Taylor - Set 26,16,12th Grade,Medicine,High,False,,2608
+109,Ian Moore - Set 26,20,College Sophomore,Law,Medium,True,Counseling,2609
+110,Jenny Clark - Set 26,19,College Freshman,Engineering,High,True,Financial Aid,2610
+101,Alice Johnson - Set 27,17,12th Grade,Engineering,High,True,Tutoring,2701
+102,Bob Smith - Set 27,16,11th Grade,Arts,Medium,False,,2702
+103,Charlie Brown - Set 27,18,12th Grade,Medicine,High,True,Counseling,2703
+104,Daisy Lee - Set 27,17,11th Grade,Engineering,Low,True,Financial Aid,2704
+105,Evan Wright - Set 27,19,College Freshman,Business,Medium,False,,2705
+106,Fiona Green - Set 27,18,12th Grade,Science,High,False,,2706
+107,George King - Set 27,17,11th Grade,Arts,Low,True,Tutoring,2707
+108,Hannah Taylor - Set 27,16,12th Grade,Medicine,High,False,,2708
+109,Ian Moore - Set 27,20,College Sophomore,Law,Medium,True,Counseling,2709
+110,Jenny Clark - Set 27,19,College Freshman,Engineering,High,True,Financial Aid,2710
+101,Alice Johnson - Set 28,17,12th Grade,Engineering,High,True,Tutoring,2801
+102,Bob Smith - Set 28,16,11th Grade,Arts,Medium,False,,2802
+103,Charlie Brown - Set 28,18,12th Grade,Medicine,High,True,Counseling,2803
+104,Daisy Lee - Set 28,17,11th Grade,Engineering,Low,True,Financial Aid,2804
+105,Evan Wright - Set 28,19,College Freshman,Business,Medium,False,,2805
+106,Fiona Green - Set 28,18,12th Grade,Science,High,False,,2806
+107,George King - Set 28,17,11th Grade,Arts,Low,True,Tutoring,2807
+108,Hannah Taylor - Set 28,16,12th Grade,Medicine,High,False,,2808
+109,Ian Moore - Set 28,20,College Sophomore,Law,Medium,True,Counseling,2809
+110,Jenny Clark - Set 28,19,College Freshman,Engineering,High,True,Financial Aid,2810
+101,Alice Johnson - Set 29,17,12th Grade,Engineering,High,True,Tutoring,2901
+102,Bob Smith - Set 29,16,11th Grade,Arts,Medium,False,,2902
+103,Charlie Brown - Set 29,18,12th Grade,Medicine,High,True,Counseling,2903
+104,Daisy Lee - Set 29,17,11th Grade,Engineering,Low,True,Financial Aid,2904
+105,Evan Wright - Set 29,19,College Freshman,Business,Medium,False,,2905
+106,Fiona Green - Set 29,18,12th Grade,Science,High,False,,2906
+107,George King - Set 29,17,11th Grade,Arts,Low,True,Tutoring,2907
+108,Hannah Taylor - Set 29,16,12th Grade,Medicine,High,False,,2908
+109,Ian Moore - Set 29,20,College Sophomore,Law,Medium,True,Counseling,2909
+110,Jenny Clark - Set 29,19,College Freshman,Engineering,High,True,Financial Aid,2910
+101,Alice Johnson - Set 30,17,12th Grade,Engineering,High,True,Tutoring,3001
+102,Bob Smith - Set 30,16,11th Grade,Arts,Medium,False,,3002
+103,Charlie Brown - Set 30,18,12th Grade,Medicine,High,True,Counseling,3003
+104,Daisy Lee - Set 30,17,11th Grade,Engineering,Low,True,Financial Aid,3004
+105,Evan Wright - Set 30,19,College Freshman,Business,Medium,False,,3005
+106,Fiona Green - Set 30,18,12th Grade,Science,High,False,,3006
+107,George King - Set 30,17,11th Grade,Arts,Low,True,Tutoring,3007
+108,Hannah Taylor - Set 30,16,12th Grade,Medicine,High,False,,3008
+109,Ian Moore - Set 30,20,College Sophomore,Law,Medium,True,Counseling,3009
+110,Jenny Clark - Set 30,19,College Freshman,Engineering,High,True,Financial Aid,3010
+101,Alice Johnson - Set 31,17,12th Grade,Engineering,High,True,Tutoring,3101
+102,Bob Smith - Set 31,16,11th Grade,Arts,Medium,False,,3102
+103,Charlie Brown - Set 31,18,12th Grade,Medicine,High,True,Counseling,3103
+104,Daisy Lee - Set 31,17,11th Grade,Engineering,Low,True,Financial Aid,3104
+105,Evan Wright - Set 31,19,College Freshman,Business,Medium,False,,3105
+106,Fiona Green - Set 31,18,12th Grade,Science,High,False,,3106
+107,George King - Set 31,17,11th Grade,Arts,Low,True,Tutoring,3107
+108,Hannah Taylor - Set 31,16,12th Grade,Medicine,High,False,,3108
+109,Ian Moore - Set 31,20,College Sophomore,Law,Medium,True,Counseling,3109
+110,Jenny Clark - Set 31,19,College Freshman,Engineering,High,True,Financial Aid,3110
+101,Alice Johnson - Set 32,17,12th Grade,Engineering,High,True,Tutoring,3201
+102,Bob Smith - Set 32,16,11th Grade,Arts,Medium,False,,3202
+103,Charlie Brown - Set 32,18,12th Grade,Medicine,High,True,Counseling,3203
+104,Daisy Lee - Set 32,17,11th Grade,Engineering,Low,True,Financial Aid,3204
+105,Evan Wright - Set 32,19,College Freshman,Business,Medium,False,,3205
+106,Fiona Green - Set 32,18,12th Grade,Science,High,False,,3206
+107,George King - Set 32,17,11th Grade,Arts,Low,True,Tutoring,3207
+108,Hannah Taylor - Set 32,16,12th Grade,Medicine,High,False,,3208
+109,Ian Moore - Set 32,20,College Sophomore,Law,Medium,True,Counseling,3209
+110,Jenny Clark - Set 32,19,College Freshman,Engineering,High,True,Financial Aid,3210
+101,Alice Johnson - Set 33,17,12th Grade,Engineering,High,True,Tutoring,3301
+102,Bob Smith - Set 33,16,11th Grade,Arts,Medium,False,,3302
+103,Charlie Brown - Set 33,18,12th Grade,Medicine,High,True,Counseling,3303
+104,Daisy Lee - Set 33,17,11th Grade,Engineering,Low,True,Financial Aid,3304
+105,Evan Wright - Set 33,19,College Freshman,Business,Medium,False,,3305
+106,Fiona Green - Set 33,18,12th Grade,Science,High,False,,3306
+107,George King - Set 33,17,11th Grade,Arts,Low,True,Tutoring,3307
+108,Hannah Taylor - Set 33,16,12th Grade,Medicine,High,False,,3308
+109,Ian Moore - Set 33,20,College Sophomore,Law,Medium,True,Counseling,3309
+110,Jenny Clark - Set 33,19,College Freshman,Engineering,High,True,Financial Aid,3310
+101,Alice Johnson - Set 34,17,12th Grade,Engineering,High,True,Tutoring,3401
+102,Bob Smith - Set 34,16,11th Grade,Arts,Medium,False,,3402
+103,Charlie Brown - Set 34,18,12th Grade,Medicine,High,True,Counseling,3403
+104,Daisy Lee - Set 34,17,11th Grade,Engineering,Low,True,Financial Aid,3404
+105,Evan Wright - Set 34,19,College Freshman,Business,Medium,False,,3405
+106,Fiona Green - Set 34,18,12th Grade,Science,High,False,,3406
+107,George King - Set 34,17,11th Grade,Arts,Low,True,Tutoring,3407
+108,Hannah Taylor - Set 34,16,12th Grade,Medicine,High,False,,3408
+109,Ian Moore - Set 34,20,College Sophomore,Law,Medium,True,Counseling,3409
+110,Jenny Clark - Set 34,19,College Freshman,Engineering,High,True,Financial Aid,3410
+101,Alice Johnson - Set 35,17,12th Grade,Engineering,High,True,Tutoring,3501
+102,Bob Smith - Set 35,16,11th Grade,Arts,Medium,False,,3502
+103,Charlie Brown - Set 35,18,12th Grade,Medicine,High,True,Counseling,3503
+104,Daisy Lee - Set 35,17,11th Grade,Engineering,Low,True,Financial Aid,3504
+105,Evan Wright - Set 35,19,College Freshman,Business,Medium,False,,3505
+106,Fiona Green - Set 35,18,12th Grade,Science,High,False,,3506
+107,George King - Set 35,17,11th Grade,Arts,Low,True,Tutoring,3507
+108,Hannah Taylor - Set 35,16,12th Grade,Medicine,High,False,,3508
+109,Ian Moore - Set 35,20,College Sophomore,Law,Medium,True,Counseling,3509
+110,Jenny Clark - Set 35,19,College Freshman,Engineering,High,True,Financial Aid,3510
+101,Alice Johnson - Set 36,17,12th Grade,Engineering,High,True,Tutoring,3601
+102,Bob Smith - Set 36,16,11th Grade,Arts,Medium,False,,3602
+103,Charlie Brown - Set 36,18,12th Grade,Medicine,High,True,Counseling,3603
+104,Daisy Lee - Set 36,17,11th Grade,Engineering,Low,True,Financial Aid,3604
+105,Evan Wright - Set 36,19,College Freshman,Business,Medium,False,,3605
+106,Fiona Green - Set 36,18,12th Grade,Science,High,False,,3606
+107,George King - Set 36,17,11th Grade,Arts,Low,True,Tutoring,3607
+108,Hannah Taylor - Set 36,16,12th Grade,Medicine,High,False,,3608
+109,Ian Moore - Set 36,20,College Sophomore,Law,Medium,True,Counseling,3609
+110,Jenny Clark - Set 36,19,College Freshman,Engineering,High,True,Financial Aid,3610
+101,Alice Johnson - Set 37,17,12th Grade,Engineering,High,True,Tutoring,3701
+102,Bob Smith - Set 37,16,11th Grade,Arts,Medium,False,,3702
+103,Charlie Brown - Set 37,18,12th Grade,Medicine,High,True,Counseling,3703
+104,Daisy Lee - Set 37,17,11th Grade,Engineering,Low,True,Financial Aid,3704
+105,Evan Wright - Set 37,19,College Freshman,Business,Medium,False,,3705
+106,Fiona Green - Set 37,18,12th Grade,Science,High,False,,3706
+107,George King - Set 37,17,11th Grade,Arts,Low,True,Tutoring,3707
+108,Hannah Taylor - Set 37,16,12th Grade,Medicine,High,False,,3708
+109,Ian Moore - Set 37,20,College Sophomore,Law,Medium,True,Counseling,3709
+110,Jenny Clark - Set 37,19,College Freshman,Engineering,High,True,Financial Aid,3710
+101,Alice Johnson - Set 38,17,12th Grade,Engineering,High,True,Tutoring,3801
+102,Bob Smith - Set 38,16,11th Grade,Arts,Medium,False,,3802
+103,Charlie Brown - Set 38,18,12th Grade,Medicine,High,True,Counseling,3803
+104,Daisy Lee - Set 38,17,11th Grade,Engineering,Low,True,Financial Aid,3804
+105,Evan Wright - Set 38,19,College Freshman,Business,Medium,False,,3805
+106,Fiona Green - Set 38,18,12th Grade,Science,High,False,,3806
+107,George King - Set 38,17,11th Grade,Arts,Low,True,Tutoring,3807
+108,Hannah Taylor - Set 38,16,12th Grade,Medicine,High,False,,3808
+109,Ian Moore - Set 38,20,College Sophomore,Law,Medium,True,Counseling,3809
+110,Jenny Clark - Set 38,19,College Freshman,Engineering,High,True,Financial Aid,3810
+101,Alice Johnson - Set 39,17,12th Grade,Engineering,High,True,Tutoring,3901
+102,Bob Smith - Set 39,16,11th Grade,Arts,Medium,False,,3902
+103,Charlie Brown - Set 39,18,12th Grade,Medicine,High,True,Counseling,3903
+104,Daisy Lee - Set 39,17,11th Grade,Engineering,Low,True,Financial Aid,3904
+105,Evan Wright - Set 39,19,College Freshman,Business,Medium,False,,3905
+106,Fiona Green - Set 39,18,12th Grade,Science,High,False,,3906
+107,George King - Set 39,17,11th Grade,Arts,Low,True,Tutoring,3907
+108,Hannah Taylor - Set 39,16,12th Grade,Medicine,High,False,,3908
+109,Ian Moore - Set 39,20,College Sophomore,Law,Medium,True,Counseling,3909
+110,Jenny Clark - Set 39,19,College Freshman,Engineering,High,True,Financial Aid,3910
+101,Alice Johnson - Set 40,17,12th Grade,Engineering,High,True,Tutoring,4001
+102,Bob Smith - Set 40,16,11th Grade,Arts,Medium,False,,4002
+103,Charlie Brown - Set 40,18,12th Grade,Medicine,High,True,Counseling,4003
+104,Daisy Lee - Set 40,17,11th Grade,Engineering,Low,True,Financial Aid,4004
+105,Evan Wright - Set 40,19,College Freshman,Business,Medium,False,,4005
+106,Fiona Green - Set 40,18,12th Grade,Science,High,False,,4006
+107,George King - Set 40,17,11th Grade,Arts,Low,True,Tutoring,4007
+108,Hannah Taylor - Set 40,16,12th Grade,Medicine,High,False,,4008
+109,Ian Moore - Set 40,20,College Sophomore,Law,Medium,True,Counseling,4009
+110,Jenny Clark - Set 40,19,College Freshman,Engineering,High,True,Financial Aid,4010
+101,Alice Johnson - Set 41,17,12th Grade,Engineering,High,True,Tutoring,4101
+102,Bob Smith - Set 41,16,11th Grade,Arts,Medium,False,,4102
+103,Charlie Brown - Set 41,18,12th Grade,Medicine,High,True,Counseling,4103
+104,Daisy Lee - Set 41,17,11th Grade,Engineering,Low,True,Financial Aid,4104
+105,Evan Wright - Set 41,19,College Freshman,Business,Medium,False,,4105
+106,Fiona Green - Set 41,18,12th Grade,Science,High,False,,4106
+107,George King - Set 41,17,11th Grade,Arts,Low,True,Tutoring,4107
+108,Hannah Taylor - Set 41,16,12th Grade,Medicine,High,False,,4108
+109,Ian Moore - Set 41,20,College Sophomore,Law,Medium,True,Counseling,4109
+110,Jenny Clark - Set 41,19,College Freshman,Engineering,High,True,Financial Aid,4110
+101,Alice Johnson - Set 42,17,12th Grade,Engineering,High,True,Tutoring,4201
+102,Bob Smith - Set 42,16,11th Grade,Arts,Medium,False,,4202
+103,Charlie Brown - Set 42,18,12th Grade,Medicine,High,True,Counseling,4203
+104,Daisy Lee - Set 42,17,11th Grade,Engineering,Low,True,Financial Aid,4204
+105,Evan Wright - Set 42,19,College Freshman,Business,Medium,False,,4205
+106,Fiona Green - Set 42,18,12th Grade,Science,High,False,,4206
+107,George King - Set 42,17,11th Grade,Arts,Low,True,Tutoring,4207
+108,Hannah Taylor - Set 42,16,12th Grade,Medicine,High,False,,4208
+109,Ian Moore - Set 42,20,College Sophomore,Law,Medium,True,Counseling,4209
+110,Jenny Clark - Set 42,19,College Freshman,Engineering,High,True,Financial Aid,4210
+101,Alice Johnson - Set 43,17,12th Grade,Engineering,High,True,Tutoring,4301
+102,Bob Smith - Set 43,16,11th Grade,Arts,Medium,False,,4302
+103,Charlie Brown - Set 43,18,12th Grade,Medicine,High,True,Counseling,4303
+104,Daisy Lee - Set 43,17,11th Grade,Engineering,Low,True,Financial Aid,4304
+105,Evan Wright - Set 43,19,College Freshman,Business,Medium,False,,4305
+106,Fiona Green - Set 43,18,12th Grade,Science,High,False,,4306
+107,George King - Set 43,17,11th Grade,Arts,Low,True,Tutoring,4307
+108,Hannah Taylor - Set 43,16,12th Grade,Medicine,High,False,,4308
+109,Ian Moore - Set 43,20,College Sophomore,Law,Medium,True,Counseling,4309
+110,Jenny Clark - Set 43,19,College Freshman,Engineering,High,True,Financial Aid,4310
+101,Alice Johnson - Set 44,17,12th Grade,Engineering,High,True,Tutoring,4401
+102,Bob Smith - Set 44,16,11th Grade,Arts,Medium,False,,4402
+103,Charlie Brown - Set 44,18,12th Grade,Medicine,High,True,Counseling,4403
+104,Daisy Lee - Set 44,17,11th Grade,Engineering,Low,True,Financial Aid,4404
+105,Evan Wright - Set 44,19,College Freshman,Business,Medium,False,,4405
+106,Fiona Green - Set 44,18,12th Grade,Science,High,False,,4406
+107,George King - Set 44,17,11th Grade,Arts,Low,True,Tutoring,4407
+108,Hannah Taylor - Set 44,16,12th Grade,Medicine,High,False,,4408
+109,Ian Moore - Set 44,20,College Sophomore,Law,Medium,True,Counseling,4409
+110,Jenny Clark - Set 44,19,College Freshman,Engineering,High,True,Financial Aid,4410
+101,Alice Johnson - Set 45,17,12th Grade,Engineering,High,True,Tutoring,4501
+102,Bob Smith - Set 45,16,11th Grade,Arts,Medium,False,,4502
+103,Charlie Brown - Set 45,18,12th Grade,Medicine,High,True,Counseling,4503
+104,Daisy Lee - Set 45,17,11th Grade,Engineering,Low,True,Financial Aid,4504
+105,Evan Wright - Set 45,19,College Freshman,Business,Medium,False,,4505
+106,Fiona Green - Set 45,18,12th Grade,Science,High,False,,4506
+107,George King - Set 45,17,11th Grade,Arts,Low,True,Tutoring,4507
+108,Hannah Taylor - Set 45,16,12th Grade,Medicine,High,False,,4508
+109,Ian Moore - Set 45,20,College Sophomore,Law,Medium,True,Counseling,4509
+110,Jenny Clark - Set 45,19,College Freshman,Engineering,High,True,Financial Aid,4510
+101,Alice Johnson - Set 46,17,12th Grade,Engineering,High,True,Tutoring,4601
+102,Bob Smith - Set 46,16,11th Grade,Arts,Medium,False,,4602
+103,Charlie Brown - Set 46,18,12th Grade,Medicine,High,True,Counseling,4603
+104,Daisy Lee - Set 46,17,11th Grade,Engineering,Low,True,Financial Aid,4604
+105,Evan Wright - Set 46,19,College Freshman,Business,Medium,False,,4605
+106,Fiona Green - Set 46,18,12th Grade,Science,High,False,,4606
+107,George King - Set 46,17,11th Grade,Arts,Low,True,Tutoring,4607
+108,Hannah Taylor - Set 46,16,12th Grade,Medicine,High,False,,4608
+109,Ian Moore - Set 46,20,College Sophomore,Law,Medium,True,Counseling,4609
+110,Jenny Clark - Set 46,19,College Freshman,Engineering,High,True,Financial Aid,4610
+101,Alice Johnson - Set 47,17,12th Grade,Engineering,High,True,Tutoring,4701
+102,Bob Smith - Set 47,16,11th Grade,Arts,Medium,False,,4702
+103,Charlie Brown - Set 47,18,12th Grade,Medicine,High,True,Counseling,4703
+104,Daisy Lee - Set 47,17,11th Grade,Engineering,Low,True,Financial Aid,4704
+105,Evan Wright - Set 47,19,College Freshman,Business,Medium,False,,4705
+106,Fiona Green - Set 47,18,12th Grade,Science,High,False,,4706
+107,George King - Set 47,17,11th Grade,Arts,Low,True,Tutoring,4707
+108,Hannah Taylor - Set 47,16,12th Grade,Medicine,High,False,,4708
+109,Ian Moore - Set 47,20,College Sophomore,Law,Medium,True,Counseling,4709
+110,Jenny Clark - Set 47,19,College Freshman,Engineering,High,True,Financial Aid,4710
+101,Alice Johnson - Set 48,17,12th Grade,Engineering,High,True,Tutoring,4801
+102,Bob Smith - Set 48,16,11th Grade,Arts,Medium,False,,4802
+103,Charlie Brown - Set 48,18,12th Grade,Medicine,High,True,Counseling,4803
+104,Daisy Lee - Set 48,17,11th Grade,Engineering,Low,True,Financial Aid,4804
+105,Evan Wright - Set 48,19,College Freshman,Business,Medium,False,,4805
+106,Fiona Green - Set 48,18,12th Grade,Science,High,False,,4806
+107,George King - Set 48,17,11th Grade,Arts,Low,True,Tutoring,4807
+108,Hannah Taylor - Set 48,16,12th Grade,Medicine,High,False,,4808
+109,Ian Moore - Set 48,20,College Sophomore,Law,Medium,True,Counseling,4809
+110,Jenny Clark - Set 48,19,College Freshman,Engineering,High,True,Financial Aid,4810
+101,Alice Johnson - Set 49,17,12th Grade,Engineering,High,True,Tutoring,4901
+102,Bob Smith - Set 49,16,11th Grade,Arts,Medium,False,,4902
+103,Charlie Brown - Set 49,18,12th Grade,Medicine,High,True,Counseling,4903
+104,Daisy Lee - Set 49,17,11th Grade,Engineering,Low,True,Financial Aid,4904
+105,Evan Wright - Set 49,19,College Freshman,Business,Medium,False,,4905
+106,Fiona Green - Set 49,18,12th Grade,Science,High,False,,4906
+107,George King - Set 49,17,11th Grade,Arts,Low,True,Tutoring,4907
+108,Hannah Taylor - Set 49,16,12th Grade,Medicine,High,False,,4908
+109,Ian Moore - Set 49,20,College Sophomore,Law,Medium,True,Counseling,4909
+110,Jenny Clark - Set 49,19,College Freshman,Engineering,High,True,Financial Aid,4910
+101,Alice Johnson - Set 50,17,12th Grade,Engineering,High,True,Tutoring,5001
+102,Bob Smith - Set 50,16,11th Grade,Arts,Medium,False,,5002
+103,Charlie Brown - Set 50,18,12th Grade,Medicine,High,True,Counseling,5003
+104,Daisy Lee - Set 50,17,11th Grade,Engineering,Low,True,Financial Aid,5004
+105,Evan Wright - Set 50,19,College Freshman,Business,Medium,False,,5005
+106,Fiona Green - Set 50,18,12th Grade,Science,High,False,,5006
+107,George King - Set 50,17,11th Grade,Arts,Low,True,Tutoring,5007
+108,Hannah Taylor - Set 50,16,12th Grade,Medicine,High,False,,5008
+109,Ian Moore - Set 50,20,College Sophomore,Law,Medium,True,Counseling,5009
+110,Jenny Clark - Set 50,19,College Freshman,Engineering,High,True,Financial Aid,5010
